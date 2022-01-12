@@ -1,0 +1,12 @@
+.count-display{
+    background: rgba(19, 161, 218, 0.445);
+    width: 32px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.count{
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+}
